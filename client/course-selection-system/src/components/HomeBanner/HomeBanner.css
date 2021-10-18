@@ -1,0 +1,16 @@
+.welcome-section {
+    background-image: url('../../images/welcome-bg.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: none;
+    position: relative;
+}
+
+.layer {
+    background-color: rgba(27, 18, 18, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

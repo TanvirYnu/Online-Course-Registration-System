@@ -1,0 +1,8 @@
+nav img{
+    height: 70px;
+}
+
+.nav-custom:hover{
+    font-weight: bold;
+    color: tomato!important;
+}

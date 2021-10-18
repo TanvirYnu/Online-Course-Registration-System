@@ -1,0 +1,19 @@
+.bg-custom {
+    background: #6c757d;
+}
+
+ul li {
+    list-style: none;
+}
+
+.dashboard-link {
+    color:  #e3e9f0;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.dashboard-link:hover {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+}
