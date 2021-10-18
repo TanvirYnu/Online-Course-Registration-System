@@ -6,5 +6,4 @@
 * make a .env file
 * configure it with your credentials
 * npm start
-
-### Anik Sarker
+## Aminur Rahman Tanvir
